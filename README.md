@@ -9,7 +9,7 @@ Research Explorer for drug discovery) project.
 # from the project root
 install.packages("CARE_R",
                  repos = NULL, type = "source")
-# or, after building the tarball
+# or
 install.packages("CARE.R_0.1.0.tar.gz", repos = NULL, type = "source")
 ```
 
