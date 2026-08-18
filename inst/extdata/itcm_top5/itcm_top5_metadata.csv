@@ -1,0 +1,31 @@
+sample_id,compound,group,replicate,NO,Name(ENG),Name(CHN),Pubchem Cid,CAS,Molecular Formula,MolecularWeight,concentration,Celllines,Treat  Sample,Control Sample
+S17S17_1,Hupehenine,treatment,1,481,Hupehenine,湖贝甲素,14240934,98243-57-3,C27H45NO2,415.7,10μM,MCF-7,S17S17,S17SDMSO
+S17S17_2,Hupehenine,treatment,2,481,Hupehenine,湖贝甲素,14240934,98243-57-3,C27H45NO2,415.7,10μM,MCF-7,S17S17,S17SDMSO
+S17S17_3,Hupehenine,treatment,3,481,Hupehenine,湖贝甲素,14240934,98243-57-3,C27H45NO2,415.7,10μM,MCF-7,S17S17,S17SDMSO
+S17SDMSO_1,Hupehenine,control,1,481,Hupehenine,湖贝甲素,14240934,98243-57-3,C27H45NO2,415.7,10μM,MCF-7,S17S17,S17SDMSO
+S17SDMSO_2,Hupehenine,control,2,481,Hupehenine,湖贝甲素,14240934,98243-57-3,C27H45NO2,415.7,10μM,MCF-7,S17S17,S17SDMSO
+S17SDMSO_3,Hupehenine,control,3,481,Hupehenine,湖贝甲素,14240934,98243-57-3,C27H45NO2,415.7,10μM,MCF-7,S17S17,S17SDMSO
+S5S1_1,Rosmarinic acid,treatment,1,110,Rosmarinic acid,迷迭香酸,5281792,20283-92-5,C18H16O8,360.3,10μM,MCF-7,S5S1,S5SDMSO
+S5S1_2,Rosmarinic acid,treatment,2,110,Rosmarinic acid,迷迭香酸,5281792,20283-92-5,C18H16O8,360.3,10μM,MCF-7,S5S1,S5SDMSO
+S5S1_3,Rosmarinic acid,treatment,3,110,Rosmarinic acid,迷迭香酸,5281792,20283-92-5,C18H16O8,360.3,10μM,MCF-7,S5S1,S5SDMSO
+S5SDMSO_1,Rosmarinic acid,control,1,110,Rosmarinic acid,迷迭香酸,5281792,20283-92-5,C18H16O8,360.3,10μM,MCF-7,S5S1,S5SDMSO
+S5SDMSO_2,Rosmarinic acid,control,2,110,Rosmarinic acid,迷迭香酸,5281792,20283-92-5,C18H16O8,360.3,10μM,MCF-7,S5S1,S5SDMSO
+S5SDMSO_3,Rosmarinic acid,control,3,110,Rosmarinic acid,迷迭香酸,5281792,20283-92-5,C18H16O8,360.3,10μM,MCF-7,S5S1,S5SDMSO
+S17S18_1,Z-Ligustilide,treatment,1,482,Z-Ligustilide,蒿本内酯;藁本内酯,5319022,81944-09-4,C12H14O2,190.24,10μM,MCF-7,S17S18,S17SDMSO
+S17S18_2,Z-Ligustilide,treatment,2,482,Z-Ligustilide,蒿本内酯;藁本内酯,5319022,81944-09-4,C12H14O2,190.24,10μM,MCF-7,S17S18,S17SDMSO
+S17S18_3,Z-Ligustilide,treatment,3,482,Z-Ligustilide,蒿本内酯;藁本内酯,5319022,81944-09-4,C12H14O2,190.24,10μM,MCF-7,S17S18,S17SDMSO
+S17SDMSO_1,Z-Ligustilide,control,1,482,Z-Ligustilide,蒿本内酯;藁本内酯,5319022,81944-09-4,C12H14O2,190.24,10μM,MCF-7,S17S18,S17SDMSO
+S17SDMSO_2,Z-Ligustilide,control,2,482,Z-Ligustilide,蒿本内酯;藁本内酯,5319022,81944-09-4,C12H14O2,190.24,10μM,MCF-7,S17S18,S17SDMSO
+S17SDMSO_3,Z-Ligustilide,control,3,482,Z-Ligustilide,蒿本内酯;藁本内酯,5319022,81944-09-4,C12H14O2,190.24,10μM,MCF-7,S17S18,S17SDMSO
+S13S8_1,Costunlide,treatment,1,356,Costunlide,木香烃内酯,5281437,553-21-9,C15H20O2,232.32,10μM,MCF-7,S13S8,S13SDMSO
+S13S8_2,Costunlide,treatment,2,356,Costunlide,木香烃内酯,5281437,553-21-9,C15H20O2,232.32,10μM,MCF-7,S13S8,S13SDMSO
+S13S8_3,Costunlide,treatment,3,356,Costunlide,木香烃内酯,5281437,553-21-9,C15H20O2,232.32,10μM,MCF-7,S13S8,S13SDMSO
+S13SDMSO_1,Costunlide,control,1,356,Costunlide,木香烃内酯,5281437,553-21-9,C15H20O2,232.32,10μM,MCF-7,S13S8,S13SDMSO
+S13SDMSO_2,Costunlide,control,2,356,Costunlide,木香烃内酯,5281437,553-21-9,C15H20O2,232.32,10μM,MCF-7,S13S8,S13SDMSO
+S13SDMSO_3,Costunlide,control,3,356,Costunlide,木香烃内酯,5281437,553-21-9,C15H20O2,232.32,10μM,MCF-7,S13S8,S13SDMSO
+S6S6_1,Fangchinoline,treatment,1,147,Fangchinoline,防己诺林碱;汉防已乙素,73481,436-77-1,C37H40N2O6,608.7,20μM,MCF-7,S6S6,S6SDMSO
+S6S6_2,Fangchinoline,treatment,2,147,Fangchinoline,防己诺林碱;汉防已乙素,73481,436-77-1,C37H40N2O6,608.7,20μM,MCF-7,S6S6,S6SDMSO
+S6S6_3,Fangchinoline,treatment,3,147,Fangchinoline,防己诺林碱;汉防已乙素,73481,436-77-1,C37H40N2O6,608.7,20μM,MCF-7,S6S6,S6SDMSO
+S6SDMSO_1,Fangchinoline,control,1,147,Fangchinoline,防己诺林碱;汉防已乙素,73481,436-77-1,C37H40N2O6,608.7,20μM,MCF-7,S6S6,S6SDMSO
+S6SDMSO_2,Fangchinoline,control,2,147,Fangchinoline,防己诺林碱;汉防已乙素,73481,436-77-1,C37H40N2O6,608.7,20μM,MCF-7,S6S6,S6SDMSO
+S6SDMSO_3,Fangchinoline,control,3,147,Fangchinoline,防己诺林碱;汉防已乙素,73481,436-77-1,C37H40N2O6,608.7,20μM,MCF-7,S6S6,S6SDMSO

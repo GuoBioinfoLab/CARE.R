@@ -1,0 +1,16 @@
+Package: CARE.R
+Title: Cancer Aging Research Engine Analysis
+Version: 0.1.0
+Author: lamyuk
+Maintainer: lamyuk <lamyuk@example.com>
+Description: Provides functions to perform ssGSEA based analysis of control and treatment TPM matrices using cancer aging hallmark gene sets. Wraps the backend R script into an R package.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends:
+    R (>= 4.3.0)
+Imports:
+    GSVA (>= 1.50.0),
+    jsonlite (>= 1.8.0),
+    stats
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1

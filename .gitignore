@@ -1,0 +1,5 @@
+*.Rcheck/
+*.tar.gz
+Rplots.pdf
+.Rproj.user/
+CARE_R_lib/

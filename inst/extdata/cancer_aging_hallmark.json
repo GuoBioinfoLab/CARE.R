@@ -1,0 +1,8 @@
+{
+  "genomic instability": ["CHEK2", "CREB1", "DDIT3", "E2F1", "EEF1A1", "EEF1E1", "EP300", "ERCC1", "ERCC2", "ERCC3", "ERCC4", "ERCC5", "ERCC8", "ESR1", "FEN1", "H2AFX", "HBP1", "HIC1", "HMGB1", "HMGB2", "HOXB7", "HOXC4", "JUN", "LMNA", "MLH1", "NBN", "NFE2L2", "NUDT1", "PARP1", "PCNA", "POLA1", "POLB", "POLD1", "PPM1D", "RAD27", "RAD51", "RAD52", "RECQL4", "RFC4", "SNCG", "SP1", "SPRTN", "SUMO1", "TBP", "TFAP2A", "TP53BP1", "TP63", "TP73", "UBE2I", "WRN", "XPA", "ZMPSTE24", "ABL1", "ADH1B", "APEX1", "APTX", "ATM", "BLM", "BRCA1", "BRCA2", "BUB1B", "CBX7", "CDKN1A"],
+  "epigenetic alterations": ["EHMT1", "EHMT2", "FLT1", "GSTP1", "GTF2H2", "HDAC1", "HDAC3", "HELLS", "HSF1", "HSPA9", "SIRT1", "SIRT6", "SIRT7"],
+  "chronic inflammation": ["ADORA2B", "CCL5", "CXCL13", "CYP19A1", "FOXP3", "IDO1", "IL10", "IL4", "LTA", "NFKBIZ", "S100A8", "S100A9", "SCN11A", "THBS1", "TNF", "TNFAIP3", "UNC13D", "VCAM1", "VNN1"],
+  "dysbiosis": ["CARD9", "CX3CR1", "LRRC19", "MUC2", "NAPEPLD", "NLRP6", "NOD2", "SPRR2A", "ST6GALNAC1"],
+  "telomere attrition": ["TERC", "TERF1", "TERF2", "TERT", "XRCC5"],
+  "stem cell exhaustion": ["CTGF", "DLL3", "JAK2", "MAPK14", "MAPK3", "MAPK9", "MED1", "NOG", "YWHAZ", "ATR", "BMI1", "CCNA2"]
+}
